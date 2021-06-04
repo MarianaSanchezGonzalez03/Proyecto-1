@@ -47,7 +47,9 @@
         min-width: 288px;
         max-width: 900px;
         height: 218px;
-        margin: 50px;
+        margin: 40px;
+        text-align: center;
+        align-self: center;
     }
 
 
