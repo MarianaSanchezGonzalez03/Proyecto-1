@@ -66,11 +66,12 @@
         color: var(--soft-orange);
     }
     .header--title--container .header--button{
+        scroll-snap-align: center;
         position: absolute;
         left: calc(50% - 118px);
         top: 270px;
         display: block;
-        margin: 35px;
+            margin: 35px;
         padding: 15px;
         width: 229px;
         height: 48px;
@@ -90,18 +91,23 @@
         height: 8px;
         margin-left: 10px;
         background-image: url('./assets/assets/icons/down-arrow.svg');
+        scroll-snap-align: center;
+
     }
     main{
         width: 100%;
         height: auto;
         background-color: var(--of-white);
+        
+
     }
     .main-exchange-container {
-        width: 100%;
+
         height: auto;
         padding-top: 80px;
         padding-bottom: 30px;
         text-align: center;
+
     }
     .main-exchange-container--title{
         width: 90%;
@@ -140,6 +146,7 @@
         overflow-x: scroll;
         overscroll-behavior-x: contain;
         scroll-snap-type: x proximity;
+        scroll-margin-left: 5px;
     }
     .main-currency-table{
         width: 70%;
@@ -148,6 +155,7 @@
         height: 360px;
         margin: 0 auto;
         font-family: "Inter", sans-serif;
+        scroll-snap-align: center;
     }
     .main-currency-table .currency-table--title{
         margin-bottom: 15px;
@@ -155,6 +163,7 @@
         font-weight: bold;
         line-height: 2.3rem;
         color: var(--bitcoin-orange);
+        scroll-snap-align: center;
     }
     .currency-table--container {
         width: 90%;
@@ -166,6 +175,7 @@
     .currency-table--container table{
         width: 100%;
         height: 100%;
+        scroll-snap-align: center;
 
     }
     .currency-table--container td{
@@ -175,6 +185,7 @@
         line-height: 1.9rem;
         color: var(--grey);
         background-color: var(--just-white) ;
+        scroll-snap-align: center;
     }
     .currency-table--container .table__top-left{
         border-radius: 15px 0 0 0;
