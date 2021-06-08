@@ -90,7 +90,7 @@
         width: 13px;
         height: 8px;
         margin-left: 10px;
-        background-image: url('./assets/assets/icons/down-arrow.svg');
+        background-image: url('./assets/icons/down-arrow.svg');
         scroll-snap-align: center;
 
     }
@@ -120,7 +120,7 @@
         height: 200px;
         margin: 0 auto;
         margin-bottom: 50px;
-        background-image: url('./assets/assets/img/Bitcoin.svg');
+        background-image: url('./assets/img/Bitcoin.svg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -210,7 +210,7 @@
         width: 15px;
         height: 15px;
         margin-left: 10px;
-        background-image: url('./assets/assets/icons/trending-down.svg');
+        background-image: url('./assets/icons/trending-down.svg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -220,7 +220,7 @@
         width: 15px;
         height: 15px;
         margin-left: 10px;
-        background-image: url('./assets/assets/icons/trending-up.svg');
+        background-image: url('./assets/icons/trending-up.svg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -322,7 +322,7 @@
         height: 25px;
         top: -10px;
         left: calc(50% - 20px);
-        background-image: url("./assets/assets/icons/batata.svg");
+        background-image: url("./assets/icons/batata.svg");
     }
     .product-detail--tittle{
         width: 90%;
@@ -362,7 +362,7 @@
         width: 20px;
         height: 20px;
         margin-bottom: 10px;
-        background-image: url("./assets/assets/icons/clock.svg");
+        background-image: url("./assets/icons/clock.svg");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -396,7 +396,7 @@
         width: 20px;
         height: 20px;
         margin-bottom: 10px;
-        background-image: url('./assets/assets/icons/eye.svg');
+        background-image: url('./assets/icons/eye.svg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -430,7 +430,7 @@
         width: 20px;
         height: 20px;
         margin-bottom: 10px;
-        background-image: url('./assets/assets/icons/dollar-sign.svg');
+        background-image: url('./assets/icons/dollar-sign.svg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -464,7 +464,7 @@
         width: 20px;
         height: 20px;
         margin-bottom: 10px;
-        background-image: url('./assets/assets/icons/check-circle.svg');
+        background-image: url('./assets/icons/check-circle.svg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -486,7 +486,7 @@
         width: 100%;
         min-width: 320px;
         height: 50vh;
-        background-image: url('./assets/assets/img/bitcoinbaby.jpg');
+        background-image: url('./assets/img/bitcoinbaby.jpg');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -586,7 +586,7 @@
         display: inline-block;
         width: 20px;
         height: 20px;
-        background-image: url('./assets/assets/icons/orange-right-arrow.svg');
+        background-image: url('./assets/icons/orange-right-arrow.svg');
         vertical-align: text-bottom;
     
     }
@@ -654,7 +654,7 @@
         display: inline-block;
         width: 20px;
         height: 20px;
-        background-image: url('./assets/assets/icons/orange-right-arrow.svg');
+        background-image: url('./assets/icons/orange-right-arrow.svg');
         vertical-align: text-bottom;
     }
     .plans-container--card {
@@ -709,7 +709,7 @@
         display: inline-block;
         width: 20px;
         height: 20px;
-        background-image: url('./assets/assets/icons/orange-right-arrow.svg');
+        background-image: url('./assets/icons/orange-right-arrow.svg');
         vertical-align: text-bottom;
     }
     footer {
